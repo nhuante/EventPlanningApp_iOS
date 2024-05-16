@@ -1,7 +1,7 @@
 # Event Planning iOS App
 
-<b>Natalie Huante & Mason Moore</b>
-CPSC 357 - iOS Application Development, Spring 2024
+**Natalie Huante & Mason Moore
+CPSC 357 - iOS Application Development, Spring 2024**
 
 ### Introduction 
 This application was developed in XCode with Swift for the purpose of a final project in the course mentioned above. The motivation behind this project was to create an app that would help people who need to plan an event or a party and want to have multiple types of information gathered in the same place. Our app allows our users to keep track of this information and easily access it. 
